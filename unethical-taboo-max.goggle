@@ -1,0 +1,14 @@
+downrank(90) site:pornhub.com OR site:xvideos.com OR site:xhamster.com OR site:youporn.com OR site:redtube.com OR site:spankbang.com OR site:eporner.com OR site:porntrex.com
+downrank(80) site:reddit.com/r/*
+downrank(70) site:youtube.com OR site:tiktok.com OR site:instagram.com OR site:pinterest.com OR site:imgur.com
+
+downrank(85) site:*.blogspot.com OR site:*.wordpress.com
+
+boost(150) site:motherless.com OR site:darknessporn.com OR site:heavy-r.com OR site:perverttube.com OR site:tabooporn.tv OR site:thisvid.com
+boost(140) site:simpcity.su OR site:coomer.party OR site:coomer.su OR site:kemono.su OR site:fapello.com OR site:fapello.ru
+boost(130) site:candidgirls.io OR site:amateurvoyeurforum.com OR site:thecandidforum.online OR site:xcandid.vip OR site:forum.candidgirls.io
+boost(120) site:erome.com OR site:realbooru.com OR site:rule34.xxx OR site:lpsg.com OR site:4chan.org OR site:8kun.top
+boost(110) site:upornia.com OR site:pornzog.com OR site:alohatube.com OR site:voyeurhit.com OR site:sexycandidgirls.com
+
+downrank(60) -intitle:"consensual" -intitle:"fantasy" -intitle:"roleplay" -intitle:"acted"
+downrank(50) -intitle:"AI generated" -intitle:"deepfake"
